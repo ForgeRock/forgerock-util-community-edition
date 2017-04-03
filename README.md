@@ -1,6 +1,6 @@
-# Forgerock Build Tool - Community Edition
+# Forgerock Util - Community Edition
 
-This repository contains code used to build the forgerock-built-tools.jar used by the OpenAM, OpenDJ, OpenIDM and OpenIG Community edition projects.
+This repository contains code used to build the forgerock-util.jar used by the OpenAM, OpenDJ, OpenIDM and OpenIG Community edition projects.
 
 ## About
 
